@@ -1,6 +1,6 @@
-package com.example.model;
+package com.example.demo.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 // import java.util.List; (vai ser utilizada quando o getter and setter de livro for implementado)
 
 @Entity

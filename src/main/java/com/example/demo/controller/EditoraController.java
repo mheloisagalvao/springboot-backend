@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.example.demo.controller;
 
-import com.example.model.Editora;
-import com.example.service.EditoraService;
+import com.example.demo.model.Editora;
+import com.example.demo.service.EditoraService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

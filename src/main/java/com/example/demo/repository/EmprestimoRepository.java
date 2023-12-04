@@ -1,6 +1,6 @@
-package com.example.repository;
+package com.example.demo.repository;
 
-import com.example.model.Emprestimo;
+import com.example.demo.model.Emprestimo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

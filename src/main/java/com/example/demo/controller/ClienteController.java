@@ -1,10 +1,10 @@
-package com.example.controller;
+package com.example.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.example.service.ClienteService;
-import com.example.model.Cliente;
+import com.example.demo.service.ClienteService;
+import com.example.demo.model.Cliente;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.example.demo.controller;
 
-import com.example.model.Livro;
-import com.example.service.LivroService;
+import com.example.demo.model.Livro;
+import com.example.demo.service.LivroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

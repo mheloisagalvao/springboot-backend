@@ -1,4 +1,4 @@
-package com.example.service;
+package com.example.demo.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.model.Livro;
-import com.example.repository.LivroRepository;
+import com.example.demo.model.Livro;
+import com.example.demo.repository.LivroRepository;
 
 @Service
 public class LivroService {

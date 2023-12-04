@@ -1,7 +1,7 @@
-package com.example.service;
+package com.example.demo.service;
 
-import com.example.model.Editora;
-import com.example.repository.EditoraRepository;
+import com.example.demo.model.Editora;
+import com.example.demo.repository.EditoraRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

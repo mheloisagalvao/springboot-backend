@@ -1,6 +1,6 @@
-package com.example.controller;
-import com.example.service.AutorService;
-import com.example.model.Autor;
+package com.example.demo.controller;
+import com.example.demo.service.AutorService;
+import com.example.demo.model.Autor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

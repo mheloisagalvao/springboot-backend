@@ -1,9 +1,9 @@
-package com.example.service;
+package com.example.demo.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.example.model.Autor;
-import com.example.repository.AutorRepository;
+import com.example.demo.model.Autor;
+import com.example.demo.repository.AutorRepository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,7 +1,7 @@
-package com.example.service;
+package com.example.demo.service;
 
-import com.example.model.Emprestimo;
-import com.example.repository.EmprestimoRepository;
+import com.example.demo.model.Emprestimo;
+import com.example.demo.repository.EmprestimoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

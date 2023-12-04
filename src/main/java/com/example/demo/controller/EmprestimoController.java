@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.example.demo.controller;
 
-import com.example.model.Emprestimo;
-import com.example.service.EmprestimoService;
+import com.example.demo.model.Emprestimo;
+import com.example.demo.service.EmprestimoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
